@@ -1,8 +1,8 @@
 ##
 
     💻 Análise e Desenvolvimento de Sistemas - 4º semestre
-    📚 Estudando Programação Java, Banco de dados, SQL Server
-    🚀 Disponibilidade para estagiar
+    📚 Estudando Programação Java e Orientação a Objetos
+    🚀 Aprendendo sobre Estruturas de dados, Banco de dados, SQL Server
 
 <a href="https://www.linkedin.com/in/marcelo-hideki-shimada-45945854/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
