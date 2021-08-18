@@ -1,6 +1,6 @@
 ##
 
-    💻 Análise e Desenvolvimento de Sistemas - 3º semestre
+    💻 Análise e Desenvolvimento de Sistemas - 4º semestre
     📚 Estudando Programação Java e Orientação a Objetos
     🚀 Aprendendo sobre Estruturas de dados, Banco de dados, SQL Server
 
