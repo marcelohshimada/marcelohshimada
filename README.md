@@ -1,8 +1,8 @@
 ##
 
-    💻 Análise e Desenvolvimento de Sistemas - 4º semestre
+    💻 Análise e Desenvolvimento de Sistemas (4º semestre) - Códigos e atividades desenvolvidas na Faculdade
     📚 Estudando Programação Java e Orientação a Objetos
-    🚀 Aprendendo sobre Estruturas de dados, Banco de dados, SQL Server
+    🚀 Aprendendo sobre Sistemas operacionais, Estruturas de dados e Banco de dados
 
 <a href="https://www.linkedin.com/in/marcelo-hideki-shimada-45945854/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
